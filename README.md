@@ -31,6 +31,7 @@ O app deve conter também uma tela de login para controle de acesso como mostra 
 - Implementar uma busca server-side dos eventos na listagem (a request de pesquisa deve ser disparada utilizando o processo de controle de fluxo **Debounce​** com um limite de tempo de **500ms**)
 - Relatório de performance (e. g: Lighthouse)
 - Utilizar Styled Components. 
+- Realizar o tratamento de falha nas requests da api (Ex: Senha incorreta) com feedback para o usuário
 
 
 ## Critérios de avaliação
