@@ -7,7 +7,7 @@ Estamos muito felizes que você tenha chegado nessa etapa do nosso processo sele
 
 ## Desafio
 
-Você deve desenvolver um app em **[React Native](https://facebook.github.io/react-native/) (usando [Expo](https://expo.io/))**, que mostre uma listagem de eventos escolares fornecidas pela [API](https://github.com/agendakids/frontend-test/blob/master/api-doc/README.md), seguindo as [especificações de layout do projeto](https://zpl.io/25O6Gk3).
+Você deve desenvolver um app em **[React Native](https://facebook.github.io/react-native/) (usando [Expo](https://expo.io/))**, que mostre uma listagem de eventos escolares fornecidas pela [API](https://github.com/agendakids/frontend-test/blob/master/api-doc/README.md), seguindo as [especificações de layout do projeto](https://app.zeplin.io/project/5c7453c16b41b240a9b63b09/dashboard).
 
 A lista de eventos deve ser organizada por data de acordo com a especificação da tela, ordenada pelas atividades mais recentes e com paginação (modelo de paginação definido na documentação da api).
 
