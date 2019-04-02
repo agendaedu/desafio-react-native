@@ -2,12 +2,12 @@
 
 ## Introdução
 
-Estamos muito felizes que você tenha chegado nessa etapa do nosso processo seletivo! Para essa fase desejamos que você resolva um desafio básico.
+Estamos muito felizes que você tenha chegado nessa etapa do nosso processo seletivo! Agora queremos conhecer um pouco do seu código, para isso propomos um desafio.
 
 
 ## Desafio
 
-Você deve desenvolver um app simples em **[React Native](https://facebook.github.io/react-native/) (usando [Expo](https://expo.io/))**, que mostre uma listagem de eventos escolares fornecidas pela [API](https://api.com), seguindo as [especificações de layout do projeto](https://zpl.io/25O6Gk3).
+Você deve desenvolver um app em **[React Native](https://facebook.github.io/react-native/) (usando [Expo](https://expo.io/))**, que mostre uma listagem de eventos escolares fornecidas pela [API](https://api.com), seguindo as [especificações de layout do projeto](https://zpl.io/25O6Gk3).
 
 A lista de atividades deve ser organizada por mês, ordenada pelas atividades mais recentes e paginadas (modelo de paginação a sua escolha).
 
