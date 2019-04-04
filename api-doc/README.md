@@ -6,7 +6,7 @@ Iremos descrever agora os dois endpoints que serão necessários para realizaç�
 do desafio de seleção do frontend.
 
 ## Base URL
-`https://81t9g74e30.execute-api.us-east-2.amazonaws.com/dev/`
+`https://frontend-test.agendaedu.com/api/`
 
 ## Endpoints
 
@@ -21,7 +21,7 @@ login com sucesso, você deve utilizar os valores válidos apontados no *Request
 | password | string| **true** | A valid password string| 123456 |
 
 
-- **Request example**: `https://81t9g74e30.execute-api.us-east-2.amazonaws.com/dev/login`
+- **Request example**: `https://frontend-test.agendaedu.com/api/login`
 - **Request method**: POST
 - **Response type**: application/json
 - **Response example**: 
@@ -50,7 +50,7 @@ possui todas as configurações de paginação
 | limit | Integer | **true** | The value of items retrieved from page |
 | page | Integer | **true** | The page number |
 
-- **Request example**: `https://81t9g74e30.execute-api.us-east-2.amazonaws.com/dev/events?limit=1;page=1`
+- **Request example**: `https://frontend-test.agendaedu.com/api/events?limit=1;page=1`
 - **Request method**: GET
 - **Response type**: application/json
 - **Response example**: 
