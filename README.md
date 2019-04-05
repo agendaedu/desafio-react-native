@@ -36,7 +36,7 @@ O app deve conter também uma tela de login para controle de acesso como mostra 
 
 ## Critérios de avaliação
 
-- Boa qualidade de UI/UX seguindo os requisitos fornecidos [AQUI](https://app.zeplin.io/project/5c7453c16b41b240a9b63b09/dashboard)
+- Boa qualidade de UI/UX seguindo os requisitos fornecidos [AQUI](https://xd.adobe.com/spec/b08e3a33-5bb6-40ad-7534-5d65fa74f4c3-c6bf/)
 - Organização do projeto: Avalia a estrutura do projeto, documentação e uso de controle de versão;
 - Inovação tecnológica: Avalia o uso de tecnologias mais recentes, desde que estáveis;
 - Coerência: Avalia se os requisitos foram atendidos;
