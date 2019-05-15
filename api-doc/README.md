@@ -23,6 +23,7 @@ login com sucesso, você deve utilizar os valores válidos apontados no *Request
 
 - **Request example**: `https://frontend-test.agendaedu.com/api/login`
 - **Request method**: POST
+- **Request body type**: application/json
 - **Response type**: application/json
 - **Response example**: 
 ```
