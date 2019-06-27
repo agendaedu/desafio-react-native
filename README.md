@@ -20,17 +20,17 @@ O app deve conter também uma tela de login para controle de acesso como mostra 
 - Deve ser em **[React Native](https://facebook.github.io/react-native/)**
 - Sinta-se avontade para usar qualquer framework de controle de estado desejado
 - Necessário o uso de rotas
+- Utilizar Styled Components
 - Publicar usando o **[Expo](https://expo.io/)**
 - Testes unitários. Pode utilizar qualquer framework de teste, e.g: Jest ou Mocha.js.
+- Montar uma estrutura de CI para rodar testes e automatiazar deploy (Ex: CircleCI)
 
 ## Requisitos bônus
 
 **Esses requisitos não são obrigatórios, mas serão levados em consideração como pontos extras no momento da avaliação.**
 
-- Montar uma estrutura de CI para automatiazar testes no github (Ex: CircleCI)
 - Implementar uma busca server-side dos eventos na listagem (a request de pesquisa deve ser disparada utilizando o processo de controle de fluxo **Debounce​** com um limite de tempo de **500ms**)
 - Relatório de performance (e. g: Lighthouse)
-- Utilizar Styled Components. 
 - Realizar o tratamento de falha nas requests da api (Ex: Senha incorreta) com feedback para o usuário
 
 
