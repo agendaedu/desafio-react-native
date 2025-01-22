@@ -64,7 +64,7 @@ possui todas as configurações de paginação
            "title": "Event 1",
            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium nulla non arcu aliquam rhoncus eu sed leo. Aenean cursus nibh sit amet fringilla sodales. Vestibulum faucibus venenatis tempor. Morbi placerat ac massa id ultricies.",
            "sendAt": "2019-03-07T00:34:35.327Z",
-           "image": "https://s3-us-west-2.amazonaws.com/agendaedu-dev/schools/c5c1a933-cdef-4c9b-8a87-490f25c2538d/events/5380/attachments/1550866911-$1-original-poster-agendakids.jpeg",
+           "image": "https://static.agendaedu.dev/schools/c5c1a933-cdef-4c9b-8a87-490f25c2538d/events/5380/attachments/1550866911-$1-original-poster-agendakids.jpeg",
            "startAt": "2019-07-22T19:01:33.476Z",
            "location": "Fake Street, 1001 - Fortaleza CE"
        }
