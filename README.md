@@ -18,10 +18,10 @@ O layout da aplicação será a critério do candidato, sinta-se livre para apli
 
 ## Requisitos obrigatórios
 
-- Deve ser em **[React Native](https://facebook.github.io/react-native/)**
+- Deve ser em **[React Native](https://facebook.github.io/react-native/)** CLI para melhor semelhança ao contexto do projeto da AgendaEdu.
 - TypeScript
 - CustomHooks
-- Redux (ou Redux Toolkit)
+- Redux Saga
 - React Navigation
 - Styled Components ou outra solução de estilização robusta
 - Testes de Integração (Jest / React Testing Library)
@@ -39,6 +39,7 @@ O layout da aplicação será a critério do candidato, sinta-se livre para apli
 - Testes E2E (Detox ou Maestro)
 - Microinterações (Animations, Toast, EmptyState, Loadings)
 - React Query
+- Personalizações nativas: Icone e SplashScreen
 
 
 ## Processo de submissão
